@@ -2,7 +2,7 @@
 
 # Conner Gardiner
 
-I'm a student at Brigham Young University-Idaho interested in Network Engineering, Data Science, and Machine Learning. Concurrently, I am working as a Jr Network Engineer within the field which has resulted in obtaining hands-on experience, obtaining industry certfications and developing personal projects to showcase applicable skillsets per ever changing service requirements.
+I'm a student at Brigham Young University-Idaho interested in Network Engineering, Data Science, and Machine Learning. Concurrently, I am working as a Jr Network Engineer within the field which has resulted in obtaining hands-on experience, obtaining industry certfications and developing personal projects to showcase applicable skillsets for the ever changing service requirements.
 
 ## About Me
 
