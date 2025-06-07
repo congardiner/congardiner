@@ -18,7 +18,7 @@ I'm a student at Brigham Young University-Idaho interested in Network Engineerin
 
 ## Let's Connect!
 
-- 📫 Here is my Linkedin https://www.linkedin.com/in/conner-gardiner/  profile
+- 📫 Here is my Linkedin Profile https://www.linkedin.com/in/conner-gardiner/  
 
 Feel free to explore my repositories and don't hesitate to reach out; enjoy the process of the journey!
 
