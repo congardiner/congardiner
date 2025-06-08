@@ -13,7 +13,7 @@ I'm a student at Brigham Young University-Idaho interested in Network Engineerin
 
 ## Technologies and Tools
 
-- Proficient in: Python, SQL, C#, Linux, RStudio, and various industry networking technologies.
+- Proficient in: Python, SQL, C#, Linux, R, and various industry networking technologies.
 
 
 ## Let's Connect!
