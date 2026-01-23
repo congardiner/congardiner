@@ -13,13 +13,17 @@ Your life can either be a tragedy or a Hero's Journey of who you became along th
 
 ## Technologies and Tools
 
-- Proficient in: Python, Ansible, SQL, Linux, R, and various industry networking technologies.
-
+- Proficient in:
+  - Python
+  - Ansible
+  - SQL
+  - AWS & GCP
+  - Networking Fundamentals (ie, Subnetting, VLANS, Dynamic Routing Protocols, TCP/IP, etc)
+  - CISCO IOS, PAN OS, and LINUX
 
 ## Let's Connect!
 
 - Here is my Linkedin Profile https://www.linkedin.com/in/conner-gardiner/  
 
-Feel free to explore my repositories and don't hesitate to reach out; enjoy the process of the journey!
 
 
