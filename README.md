@@ -17,9 +17,9 @@ Your life can either be a tragedy or a Hero's Journey of who you became along th
   - Python
   - Ansible
   - SQL
-  - AWS & GCP
+  - AWS & GCP (Monitoring, Config, and Sys Management)
   - Networking Fundamentals (ie, Subnetting, VLANS, Dynamic Routing Protocols, TCP/IP, etc)
-  - CISCO IOS, PAN OS, and LINUX
+  - Cisco IOS, PAN OS, and Linux CLI
 
 ## Let's Connect!
 
